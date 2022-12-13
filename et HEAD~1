@@ -1,0 +1,17 @@
+[33mcommit 851cf85703566a8b4f17882498b7bca85bcd50e5[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: Gabriel castelo branco <gabriel.pdg8@gmail.com>
+Date:   Tue Dec 13 17:54:45 2022 -0300
+
+     versao final
+
+[33mcommit 322604d84ef123eec94b0fece2b46afe473980ec[m
+Author: Gabriel castelo branco <gabriel.pdg8@gmail.com>
+Date:   Mon Dec 12 04:32:57 2022 -0300
+
+    versao ate pagina 3 sem footer
+
+[33mcommit b2803a9aacb683b76706c2b4c40df3692c4a12b9[m
+Author: Gabriel castelo branco <gabriel.pdg8@gmail.com>
+Date:   Sat Dec 10 13:53:55 2022 -0300
+
+    Initialize project using Create React App
